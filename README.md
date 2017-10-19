@@ -1,0 +1,2 @@
+# netlify-cms
+test-cms
